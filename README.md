@@ -7,4 +7,4 @@ The policy is published via GitHub Pages at:
 
 Bubble Pop stores all game progress locally on your device and has no server of its own. The only external data flow is through **Google AdMob**, used for optional rewarded video ads.
 
-For questions about this policy, contact: metehanhanedan@gmail.com
+For questions about this policy, contact: veyraxis.studio@gmail.com
